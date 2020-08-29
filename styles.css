@@ -1,0 +1,38 @@
+h1{
+    color: yellow;
+}
+
+.img-ronde{
+    border-radius: 100%;
+}
+
+body{
+    text-align: center;
+    
+}
+
+.describ{
+    border: 1px double black;
+    width: 250px;
+    margin: auto;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    padding: 96;
+}
+
+.espace{
+    padding-top: 300px;
+}
+
+ #style{
+   padding-top: 150px;
+} 
+
+.space{
+    margin-top: 20 px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
