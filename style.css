@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.bordure{
+    border-radius: 100px;
+}
+
+.img-center{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-weight: 200px;
+    text-underline-position: below;
+}
+#marge_g{
+    padding-left: 2%;
+}
+
+#marge_d{
+    padding-right: 2%;
+}
+
+#marge_c{
+    padding-inline-start: 2%;
+    padding-inline-end: 1%;
+}
